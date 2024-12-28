@@ -4,7 +4,7 @@ This project is the miniproject required for my course "CBU5201 - Machine Learni
 
 My name is Yiyang Zhou, and my QMUL ID is 221168154.
 
-Thank you for visiting my project!  Please **avoid plagiarism** by not copying or distributing the code without permission.  If you'd like to use this project for your own purposes, feel free to fork it and provide proper attribution.
+Thank you for visiting my project!  **Please avoid plagiarism** by not copying or distributing the code without permission.  If you'd like to use this project for your own purposes, feel free to fork it and provide proper attribution.
 
 The goal of this project is to build a machine learning model that predicts whether a narrated story is real or fictional based on a 2-5 minute audio recording. The formalized description of this project is shown as follows:
 
