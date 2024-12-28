@@ -1,6 +1,6 @@
 # CBU5201-2024-Miniproject-YiyangZhou-221168154
 
-This project is the miniproject required for my course "CBU5201 - Machine Learning."
+This project is the miniproject required for my course "CBU5201 - Machine Learning".
 
 My name is Yiyang Zhou, and my QMUL ID is 221168154.
 
